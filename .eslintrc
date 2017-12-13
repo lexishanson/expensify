@@ -1,0 +1,4 @@
+{
+  "extends": ["standard", "standard-react"],
+  "react/jsx-indent": [<enabled>, 'tab']
+}
